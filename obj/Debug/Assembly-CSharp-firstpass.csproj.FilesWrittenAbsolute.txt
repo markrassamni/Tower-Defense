@@ -1,0 +1,17 @@
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/UnityEngine.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/UnityEditor.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Mono.Cecil.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Unity.DataContract.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/markrassamni/Desktop/School/Udemy/Unity/TowerDefense/Temp/bin/Debug/Mono.Cecil.Mdb.dll
